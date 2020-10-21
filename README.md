@@ -13,6 +13,8 @@ In 2017 the ice coverage was the 3rd smallest covering 4.59 million square kilom
 * [ECMWF](https://www.ecmwf.int/)
 
 **EBU links**
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/da43c5b01eae5516238ac86f9df8de68/2020_21047295)
+* [Social Newswire](https://www.evnsocialnewswire.ch/climate/climate-animation-shows-the-evolution-of-the-arctic-ice-cap-surface-from-1979-2020-animation/)
 
 **Used by**
 
