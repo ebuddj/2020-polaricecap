@@ -19,6 +19,7 @@ In 2017 the ice coverage was the 3rd smallest covering 4.59 million square kilom
 **Used by**
 * [CT/Czechia](https://www.instagram.com/p/CGmeb07HOP7/)
 * RTVS/Slovenia on TVS1 Slovenia
+* DR/Denmark on DR1
 
 ## How to use
 
